@@ -1,1 +1,3 @@
 # BookShop-GQL
+
+# Frontend & Backend
